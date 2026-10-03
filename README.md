@@ -1,4 +1,5 @@
- Hi, I'm Brandon. A software engineer at Tesla.
+Brandon Lee SWE @ Tesla
+
 
 |![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=brandovlee&theme=onedark)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brandovlee&theme=onedark)|![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brandovlee&theme=onedark)|
 |-----|------|------|
